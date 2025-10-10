@@ -21,7 +21,7 @@ To leverage my academic training in cybersecurity, hands-on experience with thre
 | Real-Time Insight Delivery Via Slack          | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
 
 ### Network
 <div>
