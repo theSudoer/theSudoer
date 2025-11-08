@@ -181,7 +181,6 @@ I'm actively seeking opportunities in:
 I'm always open to discussing cybersecurity, collaboration opportunities, or interesting projects!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/vicenzocg/)
-- 📧 [Email](mailto:vicenzociccig@gmail.com)
 - 🐙 [GitHub](https://github.com/theSudoer)
 
 ---
