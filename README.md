@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Vicenzo Cicci Gomes
+# 👋 Hello, I'm Vicenzo CG
 
 <div align="center">
   
