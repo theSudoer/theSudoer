@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Vicenzo CG
+# Hello, I'm Vicenzo CG
 
 <div align="center">
   
@@ -8,21 +8,21 @@
 
 </div>
 
-## 🎯 About Me
+## About Me
 
 I'm an aspiring **Security Analyst** and BSc Cyber Security student based in South Wales, UK, with a passion for automation, threat detection, and incident response. I successfully designed and deployed a **Splunk-based SOC automation pipeline** that manages 500+ daily alerts using n8n and AI integration.
 
 My journey combines academic excellence with hands-on technical experience, leading community cybersecurity initiatives, and developing practical security solutions. I thrive on solving complex problems, automating repetitive tasks, and making cybersecurity more accessible to everyone.
 
-**🌍 Multilingual:** Fluent in English, Portuguese, and Spanish  
-**⚡ Availability:** 24/7 shift-ready for SOC operations  
-**🎓 Currently:** Final year BSc Applied Cyber Security student
+**Multilingual:** Fluent in English, Portuguese, and Spanish  
+**Availability:** 24/7 shift-ready for SOC operations  
+**Currently:** Final year BSc Applied Cyber Security student
 
 ---
 
-## 💼 Professional Experience
+## Professional Experience
 
-**🛡️ Cyber Dragons Helpdesk Lead** | *University of South Wales*  
+**Cyber Dragons Helpdesk Lead** | *University of South Wales*  
 *Sep 2024 - Present*
 - Leading a team of 5 student volunteers providing IT and cybersecurity support to the South Wales community
 - Delivering interactive workshops on online safety, threat awareness, and phishing prevention
@@ -30,7 +30,7 @@ My journey combines academic excellence with hands-on technical experience, lead
 
 ---
 
-## 🎓 Education
+## Education
 
 **BSc (Hons) Applied Cyber Security** | *University of South Wales*  
 *Sep 2024 - Jul 2027*
@@ -45,9 +45,9 @@ My journey combines academic excellence with hands-on technical experience, lead
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🤖 [SOC Automation Pipeline](link-to-project)
+### [SOC Automation Pipeline](link-to-project)
 **Tech Stack:** Splunk | n8n | ChatGPT API | Slack | Python
 
 A production-ready SOC automation system that revolutionizes alert management:
@@ -61,7 +61,7 @@ A production-ready SOC automation system that revolutionizes alert management:
 
 ---
 
-### 🔐 [Secure Encrypted Login System](link-to-project)
+### [Secure Encrypted Login System](link-to-project)
 **Tech Stack:** Python | SQL | Email MFA | STRIDE Threat Modeling
 
 Enterprise-grade authentication system for online gaming:
@@ -72,7 +72,7 @@ Enterprise-grade authentication system for online gaming:
 
 ---
 
-### 🔍 [Automated OSINT Reconnaissance Tool](link-to-project)
+### [Automated OSINT Reconnaissance Tool](link-to-project)
 **Tech Stack:** Python | Google Dorks | OSINT Frameworks
 
 Ethical hacking tool for security assessments:
@@ -83,7 +83,7 @@ Ethical hacking tool for security assessments:
 
 ---
 
-### 🤖 VEX Robotics Championship Winner
+### VEX Robotics Championship Winner
 **Tech Stack:** C++ | Control Systems | Embedded Programming
 
 - Programmed competition robot with advanced control algorithms
@@ -92,7 +92,7 @@ Ethical hacking tool for security assessments:
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 ### Security Tools & Frameworks
 <div>
@@ -137,7 +137,7 @@ Ethical hacking tool for security assessments:
 
 ---
 
-## 🏆 Certifications
+## Certifications
 
 <div>
   <img src="https://img.shields.io/badge/-ISC2_Cybersecurity-00A86B?&style=for-the-badge&logo=ISC2&logoColor=white" />
@@ -145,21 +145,7 @@ Ethical hacking tool for security assessments:
   <img src="https://img.shields.io/badge/-Security%2B_(In_Progress)-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=theSudoer&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theSudoer&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF)
-
-</div>
-
----
-
-## 🎯 Career Goals
+## Career Goals
 
 I'm actively seeking opportunities in:
 - 🔍 **SOC Analyst** positions
