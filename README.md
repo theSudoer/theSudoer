@@ -60,7 +60,6 @@ A production-ready SOC automation system that revolutionizes alert management:
 
 ---
 
----
 ## [Secure IT Ticketing System & RSS Feed](https://github.com/theSudoer/Web-App-Ticketing-System-rss-feed)
 
 **Tech Stack:** PHP 8.1 | MySQL | Docker Compose | OWASP ZAP
