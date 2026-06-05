@@ -50,11 +50,11 @@ My journey combines academic excellence with hands-on technical experience, lead
 **Tech Stack:** Splunk | n8n | ChatGPT API | Slack | Python
 
 A production-ready SOC automation system that revolutionizes alert management:
-- ✅ Integrated Splunk SIEM with AI-powered alert analysis
-- ✅ Automated incident triage and severity classification
-- ✅ Real-time Slack notifications for security team collaboration
-- ✅ Processed 500+ alerts and handled 5 simulated brute force attacks
-- ✅ Reduced manual workload by 70% through intelligent automation
+- Integrated Splunk SIEM with AI-powered alert analysis
+- Automated incident triage and severity classification
+- Real-time Slack notifications for security team collaboration
+- Processed 500+ alerts and handled 5 simulated brute force attacks
+- Reduced manual workload by 70% through intelligent automation
 
 **Impact:** Demonstrated how AI-enhanced automation can transform SOC operations efficiency
 
