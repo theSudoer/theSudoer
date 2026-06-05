@@ -60,25 +60,18 @@ A production-ready SOC automation system that revolutionizes alert management:
 
 ---
 
-### [Secure Encrypted Login System](link-to-project)
-**Tech Stack:** Python | SQL | Email MFA | STRIDE Threat Modeling
-
-Enterprise-grade authentication system for online gaming:
-- Implemented bcrypt password hashing with salt
-- Deployed email-based Multi-Factor Authentication
-- Conducted comprehensive STRIDE threat modeling
-- Ensured CIA triad: Confidentiality, Integrity, Availability
-
 ---
+## [Secure IT Ticketing System & RSS Feed](https://github.com/theSudoer/Web-App-Ticketing-System-rss-feed)
 
-### [Automated OSINT Reconnaissance Tool](link-to-project)
-**Tech Stack:** Python | Google Dorks | OSINT Frameworks
+**Tech Stack:** PHP 8.1 | MySQL | Docker Compose | OWASP ZAP
 
-Ethical hacking tool for security assessments:
-- Automated PII-based reconnaissance for attack surface mapping
-- Generates and executes Google Dork queries systematically
-- Uncovers exposed data, vulnerabilities, and associated assets
-- Built for ethical hacking simulations and penetration testing
+*Internal web-based issue tracker with hardened security and role-based access:*
+
+- Engineered a containerized database environment with scoped CRUD credential management
+- Implemented comprehensive threat mitigations including CSRF protection and SSRF guardrails for external RSS fetching
+- Hardened session lifecycles utilizing HTTPOnly/SameSite=Lax cookies and strict Role-Based Access Control (RBAC)
+- Mitigated SQL injection and XSS risks via prepared statements and strict output encoding
+- Developed database-backed login throttling and an automated security audit logging system for threat traceability
 
 ---
 
