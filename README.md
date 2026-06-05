@@ -47,7 +47,7 @@ My journey combines academic excellence with hands-on technical experience, lead
 
 ## Featured Projects
 
-### [SOC Automation Pipeline](link-to-project)
+### [SOC Automation Pipeline](https://github.com/theSudoer/SOC-Automation-Pipeline)
 **Tech Stack:** Splunk | n8n | ChatGPT API | Slack | Python
 
 A production-ready SOC automation system that revolutionizes alert management:
