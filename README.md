@@ -158,13 +158,12 @@ I'm actively seeking opportunities in:
 I'm always open to discussing cybersecurity, collaboration opportunities, or interesting projects!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/vicenzocg/)
-- 🐙 [GitHub](https://github.com/theSudoer)
 
 ---
 
 <div align="center">
   
-### 💡 *"Security is not a product, but a process"* - Bruce Schneier
+### 💡 *"Ahhhhh, you gotta patch it"* - Gerald Auger
 
 ![Profile Views](https://komarev.com/ghpvc/?username=theSudoer&color=00F5FF&style=for-the-badge)
 
