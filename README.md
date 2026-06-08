@@ -33,12 +33,11 @@ My journey combines academic excellence with hands-on technical experience, lead
 
 **BSc (Hons) Applied Cyber Security** | *University of South Wales*  
 *Sep 2024 - Jul 2027*
-
 - **Accreditation:** BCS Chartered Institute & NCSC Gold Standard Academic Centre
 - **Specializations:** Penetration Testing, Digital Forensics, Incident Response, SOC Operations
 - **Technical Focus:** SIEM Management (Splunk, ELK), Vulnerability Assessment, Security Automation
 
-**International Baccalaureate Diploma** | *St Andrews International School, Bangkok*
+**International Baccalaureate Diploma** | *St Andrews International School*
 - **Higher Level:** Computer Science, Physics, Psychology
 - **Extended Essay:** Research on anonymity in Onion Routing (Tor) and ethical implications
 
@@ -55,17 +54,25 @@ A production-ready SOC automation system that revolutionizes alert management:
 - Real-time Slack notifications for security team collaboration
 - Processed 500+ alerts and handled 5 simulated brute force attacks
 - Reduced manual workload by 70% through intelligent automation
-
-**Impact:** Demonstrated how AI-enhanced automation can transform SOC operations efficiency
+- **Impact:** Demonstrated how AI-enhanced automation can transform SOC operations efficiency
 
 ---
 
-## [Secure IT Ticketing System & RSS Feed](https://github.com/theSudoer/Web-App-Ticketing-System-rss-feed)
+### [SOC Analyst Simulation: Phishing & Malspam Investigation](https://github.com/theSudoer/YOUR-REPO-LINK-HERE)
+**Tech Stack:** PhishTool | VirusTotal | Kali Linux | OSINT
 
+A manual triage and threat intelligence investigation simulating Tier 1 SOC workflow:
+- Analyzed weaponized `.eml` samples to verify DMARC/SPF/DKIM authentication failures.
+- Safely extracted malicious payloads in an isolated Kali Linux environment, utilizing OSINT to identify FormBook malware.
+- Mapped threat actor infrastructure to extract specific Indicators of Compromise (IoCs), including C2 domains and origin IPs.
+- Developed actionable, enterprise-level remediation policies for email gateways, network firewalls, and EDR systems.
+
+---
+
+### [Secure IT Ticketing System & RSS Feed](https://github.com/theSudoer/Web-App-Ticketing-System-rss-feed)
 **Tech Stack:** PHP 8.1 | MySQL | Docker Compose | OWASP ZAP
 
-*Internal web-based issue tracker with hardened security and role-based access:*
-
+An internal web-based issue tracker built with hardened security and role-based access:
 - Engineered a containerized database environment with scoped CRUD credential management
 - Implemented comprehensive threat mitigations including CSRF protection and SSRF guardrails for external RSS fetching
 - Hardened session lifecycles utilizing HTTPOnly/SameSite=Lax cookies and strict Role-Based Access Control (RBAC)
@@ -79,7 +86,7 @@ A production-ready SOC automation system that revolutionizes alert management:
 
 - Programmed competition robot with advanced control algorithms
 - **Achievement:** Led team to victory in 2018 VEX Robotics Championship
-- Developed debugging and system integration skills applicable to security automation
+- Developed high-stakes debugging and complex system integration skills directly applicable to incident response and security engineering.
 
 ---
 
