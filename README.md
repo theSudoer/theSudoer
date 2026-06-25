@@ -9,7 +9,7 @@
 
 ## About Me
 
-I'm an aspiring **Security Analyst** and BSc Cyber Security student based in South Wales, UK, with a passion for automation, threat detection, and incident response. I successfully designed and deployed a **Splunk-based SOC automation pipeline** that manages 500+ daily alerts using n8n and AI integration.
+I'm a BSc Cyber Security student based in South Wales, UK, with a passion for automation, threat detection, and incident response. I successfully designed and deployed a **Splunk-based SOC automation pipeline** that manages 500+ daily alerts using n8n and AI integration.
 
 My journey combines academic excellence with hands-on technical experience, leading community cybersecurity initiatives, and developing practical security solutions. I thrive on solving complex problems, automating repetitive tasks, and making cybersecurity more accessible to everyone.
 
