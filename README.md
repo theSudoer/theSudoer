@@ -58,7 +58,7 @@ A production-ready SOC automation system that revolutionizes alert management:
 
 ---
 
-### [SOC Analyst Simulation: Phishing & Malspam Investigation](https://github.com/theSudoer/YOUR-REPO-LINK-HERE)
+### [SOC Analyst Simulation: Phishing & Malspam Investigation](https://github.com/theSudoer/Phishing-and-Malspam-Investigation)
 **Tech Stack:** PhishTool | VirusTotal | Kali Linux | OSINT
 
 A manual triage and threat intelligence investigation simulating Tier 1 SOC workflow:
